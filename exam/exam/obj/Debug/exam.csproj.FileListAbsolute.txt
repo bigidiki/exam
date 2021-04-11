@@ -1,0 +1,7 @@
+F:\Aliceru\exam\exam\exam\bin\Debug\exam.exe.config
+F:\Aliceru\exam\exam\exam\bin\Debug\exam.exe
+F:\Aliceru\exam\exam\exam\bin\Debug\exam.pdb
+F:\Aliceru\exam\exam\exam\obj\Debug\exam.csprojAssemblyReference.cache
+F:\Aliceru\exam\exam\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+F:\Aliceru\exam\exam\exam\obj\Debug\exam.exe
+F:\Aliceru\exam\exam\exam\obj\Debug\exam.pdb
